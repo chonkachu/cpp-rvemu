@@ -1,2 +1,2 @@
 # cpp-rvemu
-risc-v emulator written in C++ based on <a href=https://book.rvemu.app/>https://book.rvemu.app/</a>
+risc-v emulator written in C++. Based on <a href=https://book.rvemu.app/>https://book.rvemu.app/</a>
